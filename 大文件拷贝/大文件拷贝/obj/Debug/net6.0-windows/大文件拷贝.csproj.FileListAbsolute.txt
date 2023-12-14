@@ -1,0 +1,16 @@
+D:\desktop\tmp\大文件拷贝\大文件拷贝\bin\Debug\net6.0-windows\大文件拷贝.exe
+D:\desktop\tmp\大文件拷贝\大文件拷贝\bin\Debug\net6.0-windows\大文件拷贝.deps.json
+D:\desktop\tmp\大文件拷贝\大文件拷贝\bin\Debug\net6.0-windows\大文件拷贝.runtimeconfig.json
+D:\desktop\tmp\大文件拷贝\大文件拷贝\bin\Debug\net6.0-windows\大文件拷贝.dll
+D:\desktop\tmp\大文件拷贝\大文件拷贝\bin\Debug\net6.0-windows\大文件拷贝.pdb
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\大文件拷贝.Form1.resources
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\大文件拷贝.csproj.GenerateResource.cache
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\大文件拷贝.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\大文件拷贝.AssemblyInfoInputs.cache
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\大文件拷贝.AssemblyInfo.cs
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\大文件拷贝.csproj.CoreCompileInputs.cache
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\大文件拷贝.dll
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\refint\大文件拷贝.dll
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\大文件拷贝.pdb
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\大文件拷贝.genruntimeconfig.cache
+D:\desktop\tmp\大文件拷贝\大文件拷贝\obj\Debug\net6.0-windows\ref\大文件拷贝.dll
